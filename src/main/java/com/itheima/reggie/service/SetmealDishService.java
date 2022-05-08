@@ -1,0 +1,11 @@
+package com.itheima.reggie.service;
+
+import com.baomidou.mybatisplus.extension.service.IService;
+import com.itheima.reggie.dto.SetmealDto;
+import com.itheima.reggie.entity.SetmealDish;
+import org.springframework.stereotype.Service;
+
+@SuppressWarnings({"all"})
+public interface SetmealDishService extends IService<SetmealDish> {
+
+}
