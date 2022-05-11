@@ -54,10 +54,10 @@ mybatis-plus:
     db-config:
       id-type: ASSIGN_ID
 reggie:
-  path: D:\img\
+  path: /usr/local/img/
 
 redis:
-  host: 192.168.200.200
+  host: 192.168.161.212
   port: 6379
   password: root@123456
   database: 0
